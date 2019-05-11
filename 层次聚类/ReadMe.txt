@@ -1,0 +1,4 @@
+程序执行步骤
+1、在progressEntrance中点击run
+2、程序的运行过程在progress文件夹中
+3、result.txt是最终的打标签结果
